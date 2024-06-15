@@ -6,6 +6,8 @@
 
 import React from "react";
 
+
+
 /**
  * About background image
  *
@@ -79,6 +81,7 @@ const About = () => {
         <hr />
         <p style={{ padding: "1rem 3rem 0" }}>{detailOrQuote}</p>
       </div>
+
     </section>
   );
 };

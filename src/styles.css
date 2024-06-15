@@ -128,6 +128,36 @@ img.socialIcon {
   width: 30px;
 }
 
+/* style.css */
+
+#education {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#education h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#education h3 {
+  color: #666;
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+#education p {
+  color: #999;
+  font-size: 16px;
+}
+
+#education .loading {
+  opacity: 0.5;
+}
 /* add a slide In Left animation */
 @keyframes slideInLeft {
   0% {
