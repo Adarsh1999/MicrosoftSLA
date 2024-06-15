@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ATRIS",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The complete productivity & knowledge automation for meetings, personal notes, lectures, and more.",
+    url: "https://github.com/Adarsh1999/atris",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Twitter-NLP-Telebot-Azure-functions",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A project that utilizes natural language processing (NLP) to analyze Twitter data and a telebot to interact with users. Built on Azure functions.",
+    url: "https://github.com/Adarsh1999/Twitter-NLP-Telebot-Azure-functions",
   },
   {
-    title: "My Resume Site",
+    title: "Notification Service with Kafka, WebSocket (SignalR), and ASP.NET Core",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project demonstrates a notification system using ASP.NET Core, Kafka, and WebSocket (SignalR). The system is designed to produce notifications via Kafka and broadcast them to connected clients using WebSocket.",
+    url: "https://github.com/Adarsh1999/Notification-Service",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Dice-Cricket",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is childhood game which I myself created using Dice and hacing a cricket match between 2 teams, now in a created again in term of Technology",
+    url: "https://github.com/Adarsh1999/Dice-Cricket",
   },
 ];
 
